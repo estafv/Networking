@@ -1,8 +1,8 @@
 # ARP (Address Resolution Protocol)
 
-Mapping of a L3 address to a L2 address
+mapping of a L3 address to a L2 address
 
-ARP is used when the IP address of a device is known, but the MAC address needs to be discovered for communication on the local network.
+aRP is used when the IP address of a device is known, but the MAC address needs to be discovered for communication on the local network.
 
 <img width="800" height="493" alt="image" src="https://github.com/user-attachments/assets/4b30ed62-047d-4492-a73e-dc41d5c54ec2" />
 
@@ -19,14 +19,14 @@ ARP is used when the IP address of a device is known, but the MAC address needs 
 >
 > # ARP Process: Same Network Communication
 >
-> ## Scenario
+> ## scenario
 >
 > Host B wants to communicate with Host A.
 >
 > - Host B already knows Host A's IP address.
 > - Host B does not know Host A's MAC address.
 >
-> ## Steps
+> ## steps
 >
 > 1. Host B creates an **ARP Request** asking:
 >
@@ -83,7 +83,7 @@ ARP is used when the IP address of a device is known, but the MAC address needs 
 >
 > ---
 >
-> # Important Things to Remember
+> # terms to remember
 >
 > - ARP = IP address → MAC address mapping
 > - ARP Request = Broadcast (`FF:FF:FF:FF:FF:FF`)
