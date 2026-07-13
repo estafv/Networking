@@ -1,6 +1,7 @@
 # The OSI Model
 
-The Open Systems Interconnection (OSI) model describes seven layers that computer systems use to communicate over a network.
+ALL PEOPLE SEEM TO NEED DATA PROCESSING
+
 
 | Data | Layer | Functions |
 | --- | --- | --- |
