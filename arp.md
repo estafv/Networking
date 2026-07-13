@@ -83,7 +83,7 @@ ARP is used when the IP address of a device is known, but the MAC address needs 
 >
 > ---
 >
-> # terms to remember
+> # Terms to remember
 >
 > - ARP = IP address → MAC address mapping
 > - ARP Request = Broadcast (`FF:FF:FF:FF:FF:FF`)
