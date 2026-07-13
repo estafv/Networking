@@ -1,5 +1,6 @@
 # Network Types
 
+| --- | --- | --- |
 | WAN |	Wide Area Network |
 | LAN	| Local Area Network |
 | WLAN | Wireless Local Area Network |
