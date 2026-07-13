@@ -6,15 +6,6 @@ ARP is used when the IP address of a device is known, but the MAC address needs 
 
 <img width="800" height="493" alt="image" src="https://github.com/user-attachments/assets/4b30ed62-047d-4492-a73e-dc41d5c54ec2" />
 
-> [!NOTE]
-> # ARP (Address Resolution Protocol)
->
-> ARP is a protocol used to find the **MAC address** of a device when you already know its **IP address**.
->
-> - ARP works by mapping a **Layer 3 (IP) address** to a **Layer 2 (MAC) address**.
-> - The IP address is already known, but the MAC address is what we need to discover.
-> - This allows devices on the same network to communicate with each other.
-
 > # Terms to remember
 >
 > - ARP = IP address → MAC address mapping
