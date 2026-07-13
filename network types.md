@@ -1,5 +1,8 @@
 # Network Types
 
+![Uploading image.png…]()
+
+
 | Type | Description |
 |------|-------------|
 | WAN | Wide Area Network |
