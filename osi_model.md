@@ -4,6 +4,9 @@ The OSI (Open Systems Interconnection) is a model that explains how computers co
 
 ALL PEOPLE SEEM TO NEED DATA PROCESSING
 
+<img width="596" height="144" alt="image" src="https://github.com/user-attachments/assets/d11da789-1611-470d-8e1f-7bd7d63ced4c" />
+
+
 | Data | Layer | Functions |
 | --- | --- | --- |
 | Data | 7  Application | Human computer interaction layer, where applications can access network services |
