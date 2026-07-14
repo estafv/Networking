@@ -24,3 +24,4 @@ IPv4 Address (Binary):  00001010.00000000.00001111.00011001`
 | C | 192 – 223 | 255.255.255.0 (/24) | Small networks |
 | D | 224 – 239 | N/A | Multicast |
 | E | 240 – 255 | N/A | Experimental |
+| Loopback | 127 |
