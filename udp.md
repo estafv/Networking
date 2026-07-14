@@ -1,5 +1,6 @@
 ## UDP ( User Datagram Protocol )
 
+> - UDP is a Transport Protocol
 - Sends data without creating a connection first.
 - Prioritizes speed over reliability.
 - It doesn't use the TCP three way handshake.
