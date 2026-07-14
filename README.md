@@ -6,8 +6,8 @@ This repository isn't just a place to store coursework. It's a way for me to doc
 
 ## What is Networking?
 
-Networking is the process of connecting two or more devices so they can communicate, share data, and access resources. These devices can include computers, smartphones, servers, printers, routers, and other network-enabled equipment. By using wired or wireless connections and standardized communication protocols, networks allow information to be transmitted quickly, securely, and efficiently.
+Networking is the process of connecting two or more devices so they can communicate, share data, and access resources. These devices can include computers, smartphones, servers, printers, routers, and other network enabled equipment. By using wired or wireless connections and standardized communication protocols networks allow information to be transmitted quickly securely and efficiently.
 
-Networking is used in everyday life, from browsing the internet and sending emails to streaming videos, online gaming, cloud computing, and sharing files between devices. Networks can range from small home networks connecting a few devices to large global networks like the Internet, which connects millions of devices worldwide.
+Networking is used in everyday life from browsing the internet and sending emails to streaming videos, online gaming, cloud computing, and sharing files between devices. Networks can range from small home networks connecting a few devices to large global networks like the Internet, which connects millions of devices worldwide.
 
-At its core, computer networking makes communication and resource sharing possible, allowing people and systems to work together regardless of their physical location.
+At its core computer networking makes communication and resource sharing possible allowing people and systems to work together regardless of their physical location.
