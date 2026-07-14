@@ -1,6 +1,6 @@
 ## DNS (Domain Name System)
 
-A **DNS (Domain Name System)** converts a **domain name** into an **IP address**, allowing your device to locate and connect to the correct server. Since computers communicate using IP addresses rather than names DNS acts as the translator between the two.
+A **DNS (Domain Name System)** converts a **domain name** into an **IP address** allowing your device to locate and connect to the correct server. Since computers communicate using IP addresses rather than names DNS acts as the translator between the two.
 
 **Example:**
 ```text
