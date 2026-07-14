@@ -17,7 +17,7 @@ IPv4 Address (Binary):  00001010.00000000.00001111.00011001`
 
 ## IPv4 Address Classes
 
-| **Class** | **IP Address Range** | **Default Subnet Mask** | **Purpose** |
+| **Class** | **First Octet Range** | **Default Subnet Mask** | **Purpose** |
 |:---------:|:---------------------|:-----------------------:|-------------|
 | A | 1 – 126 | 255.0.0.0 (/8) | Large networks |
 | B | 128 – 191 | 255.255.0.0 (/16) | Medium-sized networks |
