@@ -1,6 +1,6 @@
 # The OSI Model
 
-The OSI (Open Systems Interconnection) is a model that explains how computers communicate over a network using 7 layers, each with a specific job.
+The OSI (Open Systems Interconnection) is a model that explains how computers communicate over a network using 7 layers each with a specific job.
 
 ALL PEOPLE SEEM TO NEED DATA PROCESSING
 
