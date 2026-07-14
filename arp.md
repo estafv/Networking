@@ -7,7 +7,6 @@ ARP is used when the IP address of a device is known, but the MAC address needs 
 <img width="800" height="493" alt="image" src="https://github.com/user-attachments/assets/4b30ed62-047d-4492-a73e-dc41d5c54ec2" />
 
 > # Terms to remember
->
 > - ARP = IP address → MAC address mapping
 > - ARP Request = Broadcast (`FF:FF:FF:FF:FF:FF`)
 > - ARP Reply = Unicast response
