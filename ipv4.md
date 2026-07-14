@@ -2,13 +2,13 @@
 
 - IPv4 addresses are 32 bits long.
 
-`192 → 11000000
-168 → 10101000
-  1 → 00000001
-109 → 01101101`
+` 10 → 00001010
+  0 → 00000000
+ 15 → 00001111
+ 25 → 00011001`
 
-`IPv4 Address (Decimal): 192.168.1.109
-IPv4 Address (Binary):  11000000.10101000.00000001.01101101`
+`IPv4 Address (Decimal): 10.0.15.25
+IPv4 Address (Binary):  00001010.00000000.00001111.00011001`
 
 - An IPv4 address has two parts the network portion and the host portion.
 
