@@ -1,6 +1,6 @@
 ## DNS (Domain Name System)
 
-**DNS** translates **domain names** (e.g., `google.com`) into **IP addresses**, allowing computers to find and connect to websites. Think of DNS as the **Internet's phonebook**.
+**DNS** translates **domain names** (e.g `google.com`) into **IP addresses**, allowing computers to find and connect to websites. Think of DNS as the **Internet's phonebook**.
 
 **Example:**
 ```text
@@ -8,11 +8,11 @@ youtube.com → 142.x.x.x
 ```
 
 ### Key Facts
-- 🌐 Resolves domain names to IP addresses.
-- 📡 Uses **Port 53** (TCP/UDP).
-- 🔍 `nslookup` is used to look up a domain's IP address.
-- 📝 Local DNS entries can be added in `/etc/hosts`.
-- ⚙️ DNS servers are configured in `/etc/resolv.conf` (Linux).
+- Resolves domain names to IP addresses.
+- Uses **Port 53** (TCP/UDP).
+-`nslookup` is used to look up a domain's IP address.
+- Local DNS entries can be added in `/etc/hosts`.
+- DNS servers are configured in `/etc/resolv.conf` (Linux).
 
 ### Common Top-Level Domains (TLDs)
 
