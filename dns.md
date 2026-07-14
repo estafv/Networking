@@ -23,7 +23,7 @@ youtube.com → 142.x.x.x
 | `.gov` | Government agencies |
 | `.mil` | Military organizations |
 | `.net` | Network providers and ISPs |
-| `.org` | Organizations and non-profits |
+| `.org` | Organizations and non profits |
 | `.int` | International organizations |
 | `.arpa` | DNS and network infrastructure |
 
