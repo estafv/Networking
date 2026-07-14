@@ -8,4 +8,3 @@
 - Commonly used for online gaming, live streaming, VoIP and DNS.
 - Ideal for real time communication where low latency is important.
 
-![Uploading image.png…]()
