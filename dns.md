@@ -1,6 +1,6 @@
 ## DNS (Domain Name System)
 
-**DNS** translates **domain names** (e.g `google.com`) into **IP addresses**, allowing computers to find and connect to websites. Think of DNS as the **Internet's phonebook**.
+A **DNS (Domain Name System)** converts a **domain name** into an **IP address**, allowing your device to locate and connect to the correct server. Since computers communicate using IP addresses rather than names, DNS acts as the translator between the two.
 
 **Example:**
 ```text
@@ -8,24 +8,24 @@ youtube.com → 142.x.x.x
 ```
 
 ### Key Facts
-- Resolves domain names to IP addresses.
-- Uses **Port 53** (TCP/UDP).
--`nslookup` is used to look up a domain's IP address.
-- Local DNS entries can be added in `/etc/hosts`.
-- DNS servers are configured in `/etc/resolv.conf` (Linux).
+- Converts domain names into IP addresses.
+- Uses **Port 53** over both **TCP** and **UDP**.
+- `nslookup` is used to retrieve the IP address of a domain.
+- Local DNS mappings can be added to `/etc/hosts`.
+- On Linux, DNS servers are configured in `/etc/resolv.conf`.
 
 ### Common Top-Level Domains (TLDs)
 
 | TLD | Purpose |
 |:---:|---------|
-| `.com` | Commercial |
-| `.edu` | Educational |
-| `.gov` | Government |
-| `.mil` | Military |
-| `.net` | Networks / ISPs |
-| `.org` | Organizations |
-| `.int` | International Organizations |
-| `.arpa` | DNS infrastructure |
+| `.com` | Commercial websites |
+| `.edu` | Educational institutions |
+| `.gov` | Government agencies |
+| `.mil` | Military organizations |
+| `.net` | Network providers and ISPs |
+| `.org` | Organizations and non-profits |
+| `.int` | International organizations |
+| `.arpa` | DNS and network infrastructure |
 
 ### Domain Structure
 
@@ -43,7 +43,7 @@ www.sub.domain.com
 |:------:|---------|
 | **A** | Maps a domain to an IPv4 address |
 | **AAAA** | Maps a domain to an IPv6 address |
-| **CNAME** | Alias for another domain |
-| **MX** | Mail server |
-| **NS** | Authoritative name server |
-| **TXT** | Stores text information (verification, security, etc.) |
+| **CNAME** | Creates an alias for another domain |
+| **MX** | Specifies the mail server for a domain |
+| **NS** | Identifies the authoritative name server |
+| **TXT** | Stores text-based information such as verification or security records |
