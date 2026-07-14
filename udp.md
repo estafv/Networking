@@ -1,2 +1,8 @@
-UDP ( User Datagram Protocol )
-UDP is a transport layer protocol that sends data quickly without establishing a connection or checking if all data arrives correctly. It is faster than TCP but less reliable.
+## UDP ( User Datagram Protocol )
+
+Sends data without creating a connection first.
+Prioritizes speed over reliability.
+Does not use the TCP three-way handshake.
+Packets may be lost, duplicated, or arrive out of order.
+Commonly used for online gaming, live streaming, VoIP, and DNS.
+Ideal for real-time communication where low latency is important.
